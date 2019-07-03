@@ -2,7 +2,7 @@
 
 + 转载请注明出处 https://github.com/yuanxiaosc/XLNet_Paper_Chinese_Translation
 + 商用请联系译者 wangzichaochaochao@gmail.com。
-+ [XLNet 翻译的PDF下载](XLNet Generalized Autoregressive Pretraining for Language Understanding 翻译.pdf)
++ [XLNet 翻译的PDF下载](https://github.com/yuanxiaosc/XLNet_Paper_Chinese_Translation/raw/master/XLNet%20Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding%20%E7%BF%BB%E8%AF%91.pdf)
 + 欢迎点亮右上角星星，感谢 :smiley:
 
 
@@ -19,7 +19,7 @@
 
 ---
 
-**由于GitHub目前不能很好渲染公式符号，建议直接查看PDF版翻译**
+**由于GitHub目前不能很好渲染公式符号，建议直接查看[PDF版翻译](XLNet Generalized Autoregressive Pretraining for Language Understanding 翻译.pdf)**
 
 # XLNet：广义自回归预训练语言模型
 
